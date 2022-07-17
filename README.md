@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 🤫
 - 💬 Ask me about "Flutter"
 - 📫 How to reach me: rtakedano@gmail.com
-- 😄 Pronouns: FHu
+- 😄 Pronouns: Writer
 - 🖥 Site: <a href="https://takedano.com">takedano.com</a>
 <hr>
 <p align="left"> 
