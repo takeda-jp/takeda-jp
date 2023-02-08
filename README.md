@@ -4,17 +4,17 @@
 
 <hr>
 <p align="left"> 
-  <a href="https://github.com/abrt2322/abrt2322/">
+  <a href="https://github.com/takeda-jp/takeda-jp/">
     <img src="https://komarev.com/ghpvc/?username=takeda-jp" alt="takeda-jp" />
   </a>
   <a href="https://github.com/takeda-jp">
-    <img height="20" src="https://img.shields.io/github/followers/abrt2322?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/takeda-jp?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/abrt2322">
+  <a href="http://qiita.com/takeda-jp">
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
   </a>
-  <//qiita.com/abrt2322">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/abrt2322/contributions.svg" />
+  <//qiita.com/takeda-jp">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/takeda-jp/contributions.svg" />
   </a>
 </p>
 <hr>
